@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685542150 source:c:\users\i\desktop\programming\c++\tycoonsimulator\tycoon\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<Windows.h>
+
