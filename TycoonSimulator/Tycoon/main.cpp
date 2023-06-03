@@ -342,7 +342,7 @@ void offerTutorial() {
         }
     } while (option != "S");
 
-    cout << "Good stuff. I will be loading the shop for you. As before, just insert what you wish to purchase,\n this time only with the number." << endl;
+    cout << "Good stuff. I will be loading the shop for you. As before, just insert what you wish to purchase,\nthis time only with the number." << endl;
     delayMessage(2);
     shop();
 
